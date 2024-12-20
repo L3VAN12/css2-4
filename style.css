@@ -1,0 +1,176 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#main-div {
+    margin-top: 156px;
+}
+#img-div {
+    text-align: center;
+}
+#main-text-div {
+    background-color: #EBF8FE;
+    margin: 0 auto;
+    margin-top: 115px;
+    padding: 40px 32px 40px 32px;
+    border-radius: 24px;
+    max-width: 1137px;
+    width: 100%;
+}
+#main-text-div-h1 {
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+}
+#main-text-div-p {
+    font-size: 32px;
+    font-weight: 400;
+    text-align: left;
+    color: #535862;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+#main-text-div-email-input {
+    margin-top: 6px;
+    padding: 12px 14px 12px 14px;
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+    max-width: 345px;
+    width: 100%;
+    margin-right: 24px;
+}
+#main-text-div-email-input-div {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+#main-text-div-email-input-subbit-button {
+    padding: 12px 18px 12px 18px;
+    border-radius: 8px;
+    border: 2px solid #FFFFFF;
+    background-color: #007CB8;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 600;
+    vertical-align: middle;
+}
+#main-text-div-email-input-div-p {
+    color: #535862;
+    font-size: 14px;
+    font-style: normal;
+    margin-top: 8px;
+}
+/* main part 2 */
+#main-text-div-two {
+    margin: 0 auto;
+    background-color: #EBF8FE;
+    margin-top: 72px;
+    max-width: 550px;
+    width: 100%;
+    padding: 40px 32px 40px 32px;
+    border-radius: 24px;
+}
+#main-text-div-two-h1 {
+    color: #181D27;
+    font-weight: 700;
+    font-size: 40px;
+    max-width: 220px;
+    width: 100%;
+    margin-bottom: 24px;
+}
+/* label */
+#sabmit-form-text-input-label {
+    font-size: 14px;
+    color: #1B003D;
+    font-weight: 400;
+}
+#sabmit-form-text-input-label-two {
+    font-size: 14px;
+    color: #1B003D;
+    font-weight: 400;
+}
+/* label end */
+/* input */
+#sabmit-form-text-input {
+    width: 480px;
+    height: 50px;
+    padding: 8px 16px 8px 16px;
+    border: 1px solid #380054;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-bottom: 24px;
+    color: #1B003D;
+
+}
+#sabmit-form-email-input {
+    width: 480px;
+    height: 50px;
+    padding: 8px 16px 8px 16px;
+    border: 1px solid #380054;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-bottom: 24px;
+    color: #1B003D;
+}
+/* input end */
+#main-text-div-three-p {
+    margin-bottom: 8px;
+    color: #1B003D;
+}
+/* inputss */
+#input-radio {
+    margin-bottom: 11px;
+}
+#input-radio-two {
+    margin-bottom: 11px;
+}
+#input-radio-three {
+    margin-bottom: 11px;
+}
+/* inputs end */
+/* label */
+#input-radio-label {
+    padding-right: 35px;
+    margin-right: 400px;
+    color: #6D5F8B;
+}
+#input-radio-two-label {
+    padding-right: 35px;
+    margin-right: 400px;
+    color: #6D5F8B;
+}
+#input-radio-three-label {
+    padding-right: 35px;
+    margin-right: 400px;
+    color: #6D5F8B;
+}
+/* label end */
+#submit-form-third-p {
+    font-size: 15px;
+    color: #1B003D;
+    font-weight: 400;
+    margin-top: 24px;
+}
+#submit-form-third-div {
+    max-width: 100px;
+}
+/* CHECKBOX INPUTS */
+#checkbox-first-div {
+    margin-top: 10px;
+    color: #6D5F8B;
+}
+#checkbox-second-div {
+    margin-top: 10px;
+    color: #6D5F8B;
+}
+#checkbox-third-div {
+    margin-top: 10px;
+    color: #6D5F8B;
+}
+#checkbox-Fourth-div {
+    margin-top: 10px;
+    color: #6D5F8B;
+}
